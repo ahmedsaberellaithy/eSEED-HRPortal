@@ -1,0 +1,6 @@
+First of all, Thank you for that awesome time today, I really enjoyed being at your place.
+
+please find the .sql file for the database in database file
+
+also you may run the migrations using the files made in migrations by writing 'php artisan migrate:refresh --seed',
+just after creating the database and setting the enviroment .env file...
